@@ -1,0 +1,7 @@
+    Name           Cache name                                 Expires
+* yejlee@42.FR   API:F174382C-8EAA-4C3C-A3F4-33822A3DE593   Mar 16 09:51:50 2021
+Credentials cache: API:4D5FEC3D-2D69-41FA-B478-31CDD251943E
+        Principal: yejlee@42.FR
+
+  Issued                Expires               Principal
+Mar 10 16:50:05 2021  Mar 17 16:49:50 2021  krbtgt/42.FR@42.FR
